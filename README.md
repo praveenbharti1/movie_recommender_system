@@ -31,6 +31,14 @@ We use two datasets:
 
 Our recommender system combines metadata from the cast, crew, and keywords to make recommendations. Specifically, we extract the three most important actors, the director, and relevant keywords associated with each movie.
 
+![image](https://github.com/user-attachments/assets/516bf0a9-45ed-49b8-b8dc-20448fa89cc4)
+
+
+
+![image](https://github.com/user-attachments/assets/c9a73f88-25b6-4627-9411-9ac1bfd8ad23)
+
+
+
 ### Getting Started
 
 1. Clone this repository:
